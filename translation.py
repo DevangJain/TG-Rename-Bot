@@ -1,18 +1,18 @@
 class Translation(object):
-    START_TEXT = """ Rename BOT BY THIS [MAN](https://tx.me/AID_3N)
-              🎈 @DX_BOTZ 🎈
-<b>@DX_BOTZ</b>"""
+    START_TEXT = """ Rename BOT BY THIS [MAN](https://tx.me/DevangJain)
+              🎈 @AllrounderMentor🎈
+<b>@DevangJain</b>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
-    UPGRADE_TEXT = "CONTACT @DX_BOTZ"
+    UPGRADE_TEXT = "CONTACT @Devangjain"
     DOWNLOAD_START = "Downloading😊"
     UPLOAD_START = "Uploading✨"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @PUBLIC_LEECH_2"
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use it"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Next File **"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @AID_3N"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @AID_3N"
+    NOT_AUTH_USER_TEXT = "CONTACT @Devangjain"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Devangjain"
     SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Set 😂😂😏"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Pooyee🤣🤣"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
@@ -24,7 +24,7 @@ class Translation(object):
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
-    ➡ FOR More Join @DX_BOTZ"""
+    ➡ FOR More Join @AllrounderMentor"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """Cheriya Name Aaakadeey"""
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
