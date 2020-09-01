@@ -1,6 +1,12 @@
 class Translation(object):
     START_TEXT = """ This Bot is Developed By [DeVAJe Developers](https://t.me/DeVAJeBots)
-             💻 Powered By - @AllrounderMentor 💻"""
+             💻 Powered By - @AllrounderMentor 💻
+startButton := [][]ext.InlineKeyboardButton{make([]ext.InlineKeyboardButton, 2), make([]ext.InlineKeyboardButton, 1)}
+
+	startButton[0][0] = ext.InlineKeyboardButton{
+		Text: "My Developer 💻",
+		Url:  "https://t.me/DevajeBotDev",
+	}"""
 
     RENAME_403_ERR = "🚧There Is Some Error With The File🚧"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
