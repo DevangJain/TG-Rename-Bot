@@ -1,19 +1,18 @@
 class Translation(object):
-    START_TEXT = """ This Bot is Developed By [Devang Jain](https://t.me/DevangJain)
-             💻 Powered By - @AllrounderMentor 💻
-<b>🚫 Don't DM My Developer For Getting Blocked 🚫</b>"""
+    START_TEXT = """ This Bot is Developed By [DeVAJe Developers](https://t.me/DeVAJeBots)
+             💻 Powered By - @AllrounderMentor 💻"""
 
-    RENAME_403_ERR = "There Is Some Error With The File"
+    RENAME_403_ERR = "🚧There Is Some Error With The File🚧"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
-    UPGRADE_TEXT = "CONTACT @Devangjain"
-    DOWNLOAD_START = "Downloading😊"
-    UPLOAD_START = "Uploading✨"
+    UPGRADE_TEXT = "CONTACT @DevAJeBotsGroup"
+    DOWNLOAD_START = "Downloding to My Server🕹️"
+    UPLOAD_START = "Now Uploading to Telegram 🔍"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use it"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Next File **"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @Devangjain"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Devangjain"
-    SAVED_CUSTOM_THUMB_NAIL = "You have Successfully Set the Custom Thumbnail 😊, It will be displayed in Next Files 🚧 "
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thanks For Using Me 🌐 My Developer - @DeVAJeBots **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds by @Tg_Renamer_Pro_Bot"
+    NOT_AUTH_USER_TEXT = "CONTACT @DeVAJe"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @DeVAJeBots"
+    SAVED_CUSTOM_THUMB_NAIL = "You have Successfully Set the Custom Thumbnail 🕹️, It will be displayed in Next Files 🚧 "
     DEL_ETED_CUSTOM_THUMB_NAIL = "You have Deleted the Thumbnail ⛽"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 📀"
